@@ -1,27 +1,26 @@
 # BudgetPlanner
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
+Developed an Angular-based budgeting website for managing income and expenses, featuring a dashboard to track to-do transactions for selected months (January to March) and review past transaction histories.
 
-## Development server
+![image](https://github.com/user-attachments/assets/9d45baee-9cd6-4cd9-9f7d-166257756b73)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![Screenshot 2024-10-19 181722](https://github.com/user-attachments/assets/958aa6a1-ed09-41c7-9079-918ff96b123e)
 
-## Code scaffolding
+![Screenshot 2024-10-19 181802](https://github.com/user-attachments/assets/e262ac97-cd60-42a6-a26f-f26108e9d063)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Screenshot 2024-10-19 181855](https://github.com/user-attachments/assets/e0ca4d1c-5062-4093-b1d6-51f86172c00a)
 
-## Build
+![Screenshot 2024-10-19 181917](https://github.com/user-attachments/assets/6bafa250-d6de-47ca-8ac8-d7101069af5e)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![Screenshot 2024-10-19 181941](https://github.com/user-attachments/assets/0e367194-839a-4718-94a9-e43f9794d22a)
 
-## Running unit tests
+![Screenshot 2024-10-19 182003](https://github.com/user-attachments/assets/756cb9df-66cf-4dfd-acf1-8b86c2a4a7b8)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Screenshot 2024-10-19 182023](https://github.com/user-attachments/assets/4f0e7959-e5ec-403e-a08a-1abf5340fefc)
 
-## Running end-to-end tests
+![Screenshot 2024-10-19 182041](https://github.com/user-attachments/assets/91cb8caa-1be3-4053-82f7-ed2740fc237e)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
